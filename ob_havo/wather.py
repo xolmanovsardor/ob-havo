@@ -1,7 +1,4 @@
-#shaharlar, ob havo malumoti 
-# weather.py
 
-# Shaharlar bo'yicha ob-havo ma'lumotlari (offline demo)
 weather_data = {
     "Toshkent": " Quyoshli, +36°C",
     "Samarqand": " Biroz bulutli, +33°C",

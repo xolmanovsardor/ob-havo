@@ -1,5 +1,3 @@
-#chiroyli menyu
-
 
 def print_menu():
     print("\n===  Ob-havo menyusi ===")

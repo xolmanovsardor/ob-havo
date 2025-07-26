@@ -1,9 +1,7 @@
 #asosiy boshqaruv, foydalanuvchi bilan muloqat
-# main.py
-
-import sys
-from  import 
-from  import 
+import sys 
+from ob_havo.menyu import print_menu
+from ob_havo.wather import show_all_weather , search_weather
 
 def main():
     while True:
