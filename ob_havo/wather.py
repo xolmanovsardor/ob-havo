@@ -8,7 +8,7 @@ weather_data = {
 }
 
 def show_all_weather():
-    print(" Barcha shaharlar bo‘yicha ob-havo:")
+    print(" Barcha shaharlar bo'yicha ob-havo:")
     for city, info in weather_data.items():
         print(f"- {city}: {info}")
 
@@ -18,4 +18,4 @@ def search_weather():
     if info:
         print(f" {city} uchun ob-havo: {info}")
     else:
-        print(" Bu shahar bo‘yicha ma'lumot topilmadi.")
+        print(" Bu shahar bo'yicha ma'lumot topilmadi.")
