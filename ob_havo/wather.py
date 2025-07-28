@@ -1,10 +1,10 @@
 
 weather_data = {
-    "Toshkent": " Quyoshli, +36°C",
-    "Samarqand": " Biroz bulutli, +33°C",
-    "Buxoro": " Issiq, +38°C",
-    "Andijon": " Yomg'ir ehtimoli, +29°C",
-    "Xiva": " Juda issiq, +40°C"
+    "Toshkent": " Quyoshli, +36*C",
+    "Samarqand": " Biroz bulutli, +33*C",
+    "Buxoro": " Issiq, +38*C",
+    "Andijon": " Yomg'ir ehtimoli, +29*C",
+    "Xiva": " Juda issiq, +40*C"
 }
 
 def show_all_weather():
